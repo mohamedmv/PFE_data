@@ -1,3 +1,11 @@
-./data/
-./VOCYoloV4/
-./VOCYoloV3Tiny/
+data/
+VOCYoloV4/
+VOCYoloV3Tiny/
+models/
+.ipynb_checkpoints/
+image1.pdf
+images/1.jpeg
+images/2.jpg
+images/3.jpg
+model.png
+zz
